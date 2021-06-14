@@ -8,5 +8,5 @@
 | 아웃 라이어 처리                  | 평균+4*표준편차 보다 큰 row  newbalanceOrig                    | 해당 row 삭제       |
 
 # EDA 절차
-* [전처리 전략](./1.EDA/Data Scientist Lab EDA_전처리전략.pptx)
+* [전처리 전략](./1.EDA/Data Scientist Lab EDA.pptx)
 
