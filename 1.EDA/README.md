@@ -8,17 +8,5 @@
 | 아웃 라이어 처리                  | 평균+4*표준편차 보다 큰 row  newbalanceOrig                    | 해당 row 삭제       |
 
 # EDA 절차
-* [전처리 전략](./1.EDA/Data.pptx)
+* [전처리 전략](./DataScientist_Lab_EDA.pptx)
 
-
-# 1.EDA
-* [1.EDA로 이동](./1.EDA/README.md)
-
-# 2.Load And Preprocessing
-* [2.LoadAndPreprocessing로 이동](./2.LoadAndPreprocessing/README.md)
-
-# 3.Modeling
-* [3.Modeling로 이동](./3.Modeling/README.md)
-
-# 4.Asset
-* [4.Asset로 이동](./4.Asset/README.md)
